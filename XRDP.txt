@@ -1,0 +1,4 @@
+sudo nano /etc/xrdp/xrdp.ini
+
+Rdpdr=false cliprdr=false
+To Disable Drive Redirection and/or Clipboard feature, you will simply need to change value from true to false for the following values rdpdr=false cliprdr=false
